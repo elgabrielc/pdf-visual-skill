@@ -30,7 +30,7 @@ cp SKILL.md ~/.claude/skills/pdf-visual/SKILL.md
 Or clone directly:
 
 ```bash
-git clone https://github.com/yourusername/pdf-visual-skill.git
+git clone https://github.com/elgabrielc/pdf-visual-skill.git
 mkdir -p ~/.claude/skills
 cp -r pdf-visual-skill/SKILL.md ~/.claude/skills/pdf-visual/
 ```
